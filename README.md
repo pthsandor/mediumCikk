@@ -5,3 +5,6 @@ A fenti kódsor egy egyszerű reszponzív cikket mutat be, melyben nem használt
 - HTML5
 - JsBin
 - GoogleFonts
+# live
+pthsandor.github.io/mediumCikk
+
