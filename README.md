@@ -6,5 +6,5 @@ A fenti kódsor egy egyszerű reszponzív cikket mutat be, melyben nem használt
 - JsBin
 - GoogleFonts
 # live
-pthsandor.github.io/mediumCikk
+https://pthsandor.github.io/mediumCikk
 
